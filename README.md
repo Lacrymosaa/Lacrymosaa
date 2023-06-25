@@ -1,4 +1,4 @@
-![Diabolic Witch](https://github.com/DiabolicWitch/DiabolicWitch/blob/main/nbn.png)
+![MarianVulpes](https://github.com/MarianVulpes/MarianVulpes/blob/main/nbn.png)
 <p align="center">Hello, I'm Marian Vulpes, a trans girl, programmer and a storyteller.</p>
 <p align="center">Just a pencil and a dream &#128395;</p>
 
