@@ -4,6 +4,5 @@
 
 [![Spotify](https://nowplayingmarianvulpes.vercel.app/api/spotify?background_color=010005&border_color=fff)](https://open.spotify.com/user/ewt4ywvzbhdhx4uhrparn3rxt)
 ![Recent Played](https://spotify-recently-played-readme.vercel.app/api?user=ewt4ywvzbhdhx4uhrparn3rxt&width=480)
-[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
 
 
