@@ -11,7 +11,7 @@ Focus    ❯ Systems development, Automation and Statistics
 Building ❯ Null
 ```
 &nbsp;<div align="center">
-  [![Spotify](https://nowplaying-marian-vulpes-bordins-projects.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ewt4ywvzbhdhx4uhrparn3rxt)
+  [![Spotify](https://nowplaying-plum.vercel.app/api/orchestrator?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/ewt4ywvzbhdhx4uhrparn3rxt)
 </div>
 
 
