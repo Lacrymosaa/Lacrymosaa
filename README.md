@@ -10,9 +10,4 @@ Focus    ❯ Systems development, Automation and Statistics
 4 Fun    ❯ Python, Ruby, Bash
 Building ❯ Null
 ```
-&nbsp;<div align="center">
-  [![Spotify](https://nowplaying-plum.vercel.app/api/orchestrator?background_color=0d1117&border_color=ffffff)](https://nowplaying-plum.vercel.app/redirect)
-</div>
-
-
 
